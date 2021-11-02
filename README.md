@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-here is my blog: [blog](https://newsun-boki.github.io/)
+here is my blog: https://newsun-boki.github.io/
+
 <!--
 **newsun-boki/newsun-boki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
