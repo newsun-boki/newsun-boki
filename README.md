@@ -1,5 +1,5 @@
 ### :zzz:Wanna sleep all day
-
+A struggling automation undergraduate， like to do something useless.
 Here is my blog: https://newsun-boki.github.io/
 
 
