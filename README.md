@@ -2,9 +2,9 @@
 
 A struggling automation undergraduate who likes to do useless things .
 
-:sparkles:I'm busy with a competition held by a arms company in Shenzhen.
-:dog:I'm trying to do something about CV.
-:poop:I love and hate deep learning cause it's unexplainable.
++ :sparkles:I'm busy with a competition held by a arms company in Shenzhen.
++ :dog:I'm trying to do something about CV.
++ :poop:I love and hate deep learning cause it's unexplainable.
 
 Here is my blog: https://newsun-boki.github.io/
 
