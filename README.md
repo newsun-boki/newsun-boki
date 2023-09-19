@@ -1,8 +1,8 @@
 ### :zzz:Wanna sleep all day
 
-A struggling automation undergraduate who likes to do useless things .
+A postgraduate student who likes to do useless things .
 
-+ :sparkles:I'm busy with a competition held by a arms company in Shenzhen.
++ :sparkles:Now I focus on AR/VR interaction.
 + :dog:I'm trying to do something about CV.
 + :poop:I love and hate deep learning cause it's unexplainable.
 
